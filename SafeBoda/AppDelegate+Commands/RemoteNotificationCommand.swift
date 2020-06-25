@@ -1,9 +1,9 @@
 //
-//  RemoteNotificationCommand.swift
-//  Koya
+//  RegisterToRemoteNotificationsCommand.swift
+//  SafeBoda
 //
-//  Created by Achem Samuel on 4/21/20.
-//  Copyright © 2020 Softcom Limited. All rights reserved.
+//  Created by Achem Samuel on 6/23/20.
+//  Copyright © 2020 Achem Samuel. All rights reserved.
 //
 
 import Foundation

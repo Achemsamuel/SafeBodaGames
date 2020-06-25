@@ -63,7 +63,6 @@
 		D9D611D224A48A3400C2A866 /* Builder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D611CB24A48A3400C2A866 /* Builder.swift */; };
 		D9D611D324A48A3400C2A866 /* DatabaseCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D611CC24A48A3400C2A866 /* DatabaseCommand.swift */; };
 		D9D611D424A48A3400C2A866 /* RemoteNotificationCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D611CD24A48A3400C2A866 /* RemoteNotificationCommand.swift */; };
-		D9D611D524A48A3400C2A866 /* NavigationCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D611CE24A48A3400C2A866 /* NavigationCommand.swift */; };
 		D9D611D924A48A5A00C2A866 /* OnboardingSlide.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D611D724A48A5A00C2A866 /* OnboardingSlide.swift */; };
 		D9D611DA24A48A5A00C2A866 /* OnboardingSlide.xib in Resources */ = {isa = PBXBuildFile; fileRef = D9D611D824A48A5A00C2A866 /* OnboardingSlide.xib */; };
 /* End PBXBuildFile section */
@@ -154,7 +153,6 @@
 		D9D611CB24A48A3400C2A866 /* Builder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Builder.swift; sourceTree = "<group>"; };
 		D9D611CC24A48A3400C2A866 /* DatabaseCommand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DatabaseCommand.swift; sourceTree = "<group>"; };
 		D9D611CD24A48A3400C2A866 /* RemoteNotificationCommand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RemoteNotificationCommand.swift; sourceTree = "<group>"; };
-		D9D611CE24A48A3400C2A866 /* NavigationCommand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationCommand.swift; sourceTree = "<group>"; };
 		D9D611D724A48A5A00C2A866 /* OnboardingSlide.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingSlide.swift; sourceTree = "<group>"; };
 		D9D611D824A48A5A00C2A866 /* OnboardingSlide.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OnboardingSlide.xib; sourceTree = "<group>"; };
 		DB735DC23EACFA036F4BFF45 /* Pods-SafeBodaTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SafeBodaTests.debug.xcconfig"; path = "Target Support Files/Pods-SafeBodaTests/Pods-SafeBodaTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -422,7 +420,6 @@
 				D9D611CB24A48A3400C2A866 /* Builder.swift */,
 				D9D611CC24A48A3400C2A866 /* DatabaseCommand.swift */,
 				D9D611CD24A48A3400C2A866 /* RemoteNotificationCommand.swift */,
-				D9D611CE24A48A3400C2A866 /* NavigationCommand.swift */,
 			);
 			path = "AppDelegate+Commands";
 			sourceTree = "<group>";
@@ -686,7 +683,6 @@
 				D930B39B24A2A92E00D90864 /* String+Extension.swift in Sources */,
 				D9218CDD24A37DD400E72CA7 /* CardDetailRouter.swift in Sources */,
 				D930B39F24A2AD2200D90864 /* ApiResponse.swift in Sources */,
-				D9D611D524A48A3400C2A866 /* NavigationCommand.swift in Sources */,
 				D9218CDE24A37DD400E72CA7 /* CardDetailModels.swift in Sources */,
 				D9218CF324A3821F00E72CA7 /* NavigationController+Extension.swift in Sources */,
 				D9218CD324A36C2200E72CA7 /* Image+Extension.swift in Sources */,
