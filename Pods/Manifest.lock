@@ -5,14 +5,12 @@ PODS:
   - Kingfisher (5.13.4):
     - Kingfisher/Core (= 5.13.4)
   - Kingfisher/Core (5.13.4)
-  - Networking (4.4.0)
 
 DEPENDENCIES:
   - BRYXBanner
   - CDAlertView
   - IQKeyboardManagerSwift
   - Kingfisher (~> 5.0)
-  - Networking (~> 4)
 
 SPEC REPOS:
   trunk:
@@ -20,15 +18,13 @@ SPEC REPOS:
     - CDAlertView
     - IQKeyboardManagerSwift
     - Kingfisher
-    - Networking
 
 SPEC CHECKSUMS:
   BRYXBanner: 4fbd266f96ce000e4c6cc9a0558c446bd88d9801
   CDAlertView: ee6a87c90c4283c8d316d55633db1a6981f1cc51
   IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
   Kingfisher: d2279a7abece3c7f25a80cd2b7f363ca5cf3f44c
-  Networking: cbef47ab030af248248c26a696adb88989b52ef1
 
-PODFILE CHECKSUM: d74dfd702bb982ddfab97504f503cc97b5bb7af3
+PODFILE CHECKSUM: 834661bfc8313f897a52700ef4a1ec813b09cb51
 
 COCOAPODS: 1.8.4

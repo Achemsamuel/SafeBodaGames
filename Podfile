@@ -9,7 +9,6 @@ target 'SafeBoda' do
   pod 'IQKeyboardManagerSwift'
   pod 'CDAlertView'
   pod 'Kingfisher', '~> 5.0'
-  pod 'Networking', '~> 4'
   pod 'BRYXBanner'
 
   target 'SafeBodaTests' do
