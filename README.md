@@ -11,7 +11,4 @@ The CardDetail scene gives a clearer view of the games with more detail ranging 
 ![Search](https://res.cloudinary.com/dyuuulmg0/image/upload/c_scale,h_600/v1597540863/Simulator_Screen_Shot_-_iPhone_11_-_2020-08-16_at_02.06.28.png)
 
 ![Search Result](https://res.cloudinary.com/dyuuulmg0/image/upload/c_scale,h_600/v1597540883/Simulator_Screen_Shot_-_iPhone_11_-_2020-08-16_at_02.07.40.png)
-
-
-
 ![Detail](https://res.cloudinary.com/dyuuulmg0/image/upload/c_scale,h_600/v1597540886/Simulator_Screen_Shot_-_iPhone_11_-_2020-08-16_at_02.07.56.png)
