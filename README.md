@@ -7,6 +7,9 @@ The CardDetail scene gives a clearer view of the games with more detail ranging 
 
 ![Onboarding Screen - Light Mode](https://res.cloudinary.com/dyuuulmg0/image/upload/v1597540890/IMG-20200625-WA0005.jpg)
 ![Onboarding Screen - Dark Mode](https://res.cloudinary.com/dyuuulmg0/image/upload/v1597540890/IMG-20200625-WA0004.jpg)
+
 ![Search](https://res.cloudinary.com/dyuuulmg0/image/upload/v1597540863/Simulator_Screen_Shot_-_iPhone_11_-_2020-08-16_at_02.06.28.png)
+
 ![Search Result](https://res.cloudinary.com/dyuuulmg0/image/upload/v1597540883/Simulator_Screen_Shot_-_iPhone_11_-_2020-08-16_at_02.07.40.png)
+
 ![Detail](https://res.cloudinary.com/dyuuulmg0/image/upload/v1597540886/Simulator_Screen_Shot_-_iPhone_11_-_2020-08-16_at_02.07.56.png)
