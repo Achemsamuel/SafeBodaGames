@@ -1,4 +1,4 @@
-# safeboda-ios-code-challenge-achemsamuel
+# SafeBoda Games
 
 This app displays searched cards from Magic: The Gathering Trading Card Game (TCG).
 
